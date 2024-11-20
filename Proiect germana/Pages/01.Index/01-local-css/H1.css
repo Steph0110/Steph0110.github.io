@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+h1{
+	display: fixed;
+	align-items: center;
+	justify-content: center;
+    color: #4A5D39;
+	font-family: "Lucida Handwriting", cursive;
+    font-size: 150px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
