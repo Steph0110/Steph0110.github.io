@@ -8,8 +8,10 @@ h2{
 	font-family: "Lucida Handwriting", cursive;
     font-size: 50px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
-    
-  position: fixed;
+    max-width: 1920px;
+  max-height: 1080px;
+  
+    position: fixed;
   top: 50%;
   left: 50%;
   /* bring your own prefixes */
