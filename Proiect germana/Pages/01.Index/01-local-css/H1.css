@@ -8,10 +8,13 @@ h1{
 	font-family: "Lucida Handwriting", cursive;
     font-size: 150px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    max-width: 1920px;
+  max-height: 1080px;
   
   position: fixed;
   top: 30%;
   left: 50%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
+ 
 }
