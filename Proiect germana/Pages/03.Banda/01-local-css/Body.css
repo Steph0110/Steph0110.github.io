@@ -1,0 +1,28 @@
+@charset "UTF-8";
+body {
+  background-color: #f1ebe2;
+  min-width: 0px;
+  min-height: 0px;
+  margin: auto;
+  box-sizing: border-box;
+}
+div {
+  display: grid;
+}
+body {
+  background-image: url("../../../../../../../Downloads/1.1.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+/*height:100vh;
+  backgroud-size: 100%;
+  display: absolute;
+  margin-left: 1%;
+  margin-top: -3%;
+  width: 100%;
+    transform: translate(5%, 5%);
+    z-index: -5;
+background-repeat:no-repeat; 
+object-fit: contain;

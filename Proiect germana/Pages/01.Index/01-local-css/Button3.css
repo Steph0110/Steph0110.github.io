@@ -1,0 +1,55 @@
+@charset "UTF-8";
+#button3 {
+  position: fixed;
+  transform: translate(-50%, -50%);
+  left: 95%;
+  top: 96%;
+  width: 9em;
+  height: 3em;
+  border-radius: 30em;
+  font-size: 15px;
+  font-family: "Lucida Handwriting", cursive;
+  border: none;
+  overflow: hidden;
+  z-index: 1;
+  box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+  opacity: 0.8;
+}
+#button3::before {
+  content: '';
+  width: 0;
+  height: 3em;
+  border-radius: 30em;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: linear-gradient(to right, #bc441b 0%, #401c07 100%);
+  transition: .5s ease;
+  z-index: -1;
+}
+#button3:hover::before {
+  width: 9em;
+}
+#button3:hover {
+  box-shadow: 6px 6px 12px #401c07, -6px -6px 12px #bc441b;
+}
+.button3:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+.button3:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+.button3:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+.button3:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
