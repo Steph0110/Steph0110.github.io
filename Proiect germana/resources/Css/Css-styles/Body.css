@@ -10,7 +10,7 @@ div {
   display: grid;
 }
 body {
-  background-image: url("../../../Pages/01.Index/02-local-images/1.1.webp");
+  background-image: url("/Users/steph/Documents/Coding/WEB/Proiect germana/Pages/01.Index/02-local-images/Chess2.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;

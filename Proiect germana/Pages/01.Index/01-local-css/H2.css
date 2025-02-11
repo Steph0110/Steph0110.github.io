@@ -3,13 +3,13 @@ h2 {
   display: fixed;
   align-items: center;
   justify-content: center;
-  color: #5e8c19;
+  color: #faeed9;
   font-family: "Lucida Handwriting", cursive;
   font-size: 3em;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  text-shadow: 3px 3px 3px rgb(16, 5, 5);
   max-width: 1920px;
   max-height: 1080px;
-  margin-top: 6vh;
+  margin-top: 8vh;
   position: fixed;
   top: 50%;
   left: 50%;

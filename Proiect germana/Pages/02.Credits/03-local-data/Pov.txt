@@ -1,25 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<link href="01-local-css/Body.animatie.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<meta name="viewport" conten="width=device-width, initial-scale=1.0, maximum-scale=1">
-<meta name="viewport" content="user-scalable=0">
-<html lang="en-US">
-</html>
-
-<title>Animatie</title>
-</head><body>
-<header>
-  <button id="button1">
-  <i class="fa fa-home"><a href="../../index.html" class="button1"> Home</a></i>
-  <link href="01-local-css/home.css" rel="stylesheet" type="text/css">
-  </button>
-</header>
-<h1>
-  <link href="01-local-css/H1.css" rel="stylesheet" type="text/css">
-  <div class="scroll-bar"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pe marele pachebot care, la miezul nopţii, avea să părăsească New Yorkul cu
+ 		Pe marele pachebot care, la miezul nopţii, avea să părăsească New Yorkul cu
     destinaţia Buenos-Aires, domnea obişnuitul du-te-vino din ultimul moment dinaintea plecării.
     Pasagerii se îmbarcau întovărăşiţi de-o droaie de prieteni, poştaşii, cu şapca pe-o ureche,
     duceau telegrame şi strigau tot felul de nume prin saloane, se cărau cufere, se aduceau flori,
@@ -114,7 +93,4 @@
     ridică ochii. Cineva propuse o simultană. Cu mare greutate reuşiră să-i explice ce se înţelegea
     prin asta: trebuia să joace el singur împotriva mai multor parteneri. Dar de îndată ce pricepu,
     el şi execută fără zăbavă tot ce i se ceruse; trecea tacticos de la o masă la alta, scârţâind din
-    pantofii săi grosolani, şi, ca să n-o mai lungim, câştigă şapte partide din opt. </div>
-</h1>
-</body>
-</html>
+    pantofii săi grosolani, şi, ca să n-o mai lungim, câştigă şapte partide din opt.

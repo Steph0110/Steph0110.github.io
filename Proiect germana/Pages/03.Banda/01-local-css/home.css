@@ -10,8 +10,9 @@
   border: none;
   overflow: hidden;
   z-index: 1;
-  box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
-  opacity: 0.8;
+  box-shadow: 6px 6px 12px #ffdaa9, -6px -6px 12px #faca9b;
+  opacity: 0.9;
+  background-color: #ffcb93;
   font-family: inherit;
 }
 #button::before {
@@ -22,7 +23,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  background-image: linear-gradient(to right, #5e8c19 0%, #007A33 100%);
+  background-image: linear-gradient(to right, #f6a865 0%, #e88b2b 100%);
   transition: .5s ease;
   z-index: -1;
 }
@@ -30,7 +31,7 @@
   width: 9em;
 }
 #button:hover {
-  box-shadow: 6px 6px 12px #007A33, -6px -6px 12px #5e8c19;
+  box-shadow: 6px 6px 12px #e88b2b, -6px -6px 12px #f1ae70;
 }
 .button:link {
   color: black;
