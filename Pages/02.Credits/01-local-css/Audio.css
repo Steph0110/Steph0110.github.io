@@ -1,0 +1,21 @@
+@charset "UTF-8";
+#playPauseButton {
+  position: fixed;
+  right: 1.5%;
+  top: 2%;
+  width: 9em;
+  height: 3em;
+  border-radius: 30em;
+  font-size: 15px;
+  font-family: "Lucida Handwriting", cursive;
+  border: none;
+  overflow: hidden;
+  z-index: 1;
+  box-shadow: 6px 6px 12px #ffdaa9, -6px -6px 12px #faca9b;
+  opacity: 0.9;
+  background-color: #ffd1aa;
+}
+
+#playPauseButton:hover {
+  box-shadow: 6px 6px 12px #e88b2b, -6px -6px 12px #f1ae70;
+}
