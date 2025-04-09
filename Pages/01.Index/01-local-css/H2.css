@@ -1,0 +1,8 @@
+@charset "UTF-8";
+h2 {
+  color: #faeed9;
+  font-family: "Lucida Handwriting", cursive;
+  font-size: 4vw;
+  text-shadow: 3px 3px 3px rgb(16, 5, 5);
+  margin: 0;
+}

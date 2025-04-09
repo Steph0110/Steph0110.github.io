@@ -1,0 +1,31 @@
+@charset "UTF-8";
+body {
+  background-color: #f1ebe2;
+  min-width: 0px;
+  min-height: 0px;
+  box-sizing: border-box;
+  overflow-y: auto;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  position: relative;
+  background-image: url("../02-local-images/upscaled_4k_image.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+footer {
+  position: fixed;
+  right: 20px;
+  bottom: 3px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #fffae5;
+  z-index: 2;
+  opacity: 0.8;
+}
